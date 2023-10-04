@@ -1,0 +1,4 @@
+FileInfo(name='directory', extension='.txt', is_dir=False, parent='.')
+FileInfo(name='taskHome15', extension='.py', is_dir=False, parent='.')
+FileInfo(name='directory', extension='.txt', is_dir=False, parent='.')
+FileInfo(name='taskHome15', extension='.py', is_dir=False, parent='.')
